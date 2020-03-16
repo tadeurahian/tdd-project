@@ -1,0 +1,1 @@
+O processo demonstrador na figura consiste basicamente em escrever primeiramente os testes unitários, e após isso, realizar pequenas implementações/refatorações no código até que todos os testes unitários passem. Dessa forma a aplicação estará atendendo o seu objetivo e o desenvolvimento foi orientado a testes.
