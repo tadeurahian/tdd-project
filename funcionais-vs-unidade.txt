@@ -1,0 +1,1 @@
+Os testes funcionais testam um fluxo inteiro de uso do usuário, enquando os testes de unidade são feitos para testar métodos de classes e não fluxos inteiros. Os testes de unidade são mais fáceis de serem feitos que os testes funcionais, pois abordam "fluxos" menores.
